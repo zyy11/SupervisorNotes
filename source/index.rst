@@ -6,6 +6,10 @@
 监理工程师考试
 =================================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    docs/建设工程监理概论/index
+   docs/建设工程合同管理/index
+   docs/建设工程质量控制/index
+   docs/建设工程投资控制/index
+   docs/建设工程进度控制/index
