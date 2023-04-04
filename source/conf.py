@@ -26,9 +26,9 @@ FilePath: \cpp_dictionary\source\conf.py
 
 # -- Project information -----------------------------------------------------
 
-project = 'C++ Note'
-copyright = '2021, TOMOCAT'
-author = 'TOMOCAT'
+project = '建设工程监理概论'
+copyright = '2023'
+author = '张云翼'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'

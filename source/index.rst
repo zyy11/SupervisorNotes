@@ -8,12 +8,5 @@
 .. toctree::
    :maxdepth: 2
    
-   docs/第1章 建设工程监理制度/index
-   docs/第2章 工程建设程序及组织实施模式/index
-
-README
-=================================
-.. toctree::
-   :maxdepth: 2
-
-   docs/README
+   docs/建设工程监理概论/第1章 建设工程监理制度/index
+   docs/建设工程监理概论/第2章 工程建设程序及组织实施模式/index
