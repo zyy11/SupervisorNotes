@@ -26,7 +26,7 @@ FilePath: \cpp_dictionary\source\conf.py
 
 # -- Project information -----------------------------------------------------
 
-project = '建设工程监理概论'
+project = '监理工程师考试笔记'
 copyright = '2023'
 author = '张云翼'
 

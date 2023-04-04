@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-监理工程师考试
+监理工程师考试笔记
 =================================
 .. toctree::
    :maxdepth: 1
